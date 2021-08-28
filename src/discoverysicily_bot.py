@@ -291,7 +291,7 @@ def handle(msg):
         else:
             send_comuni_geo_text(bot,msg)
 
-TOKEN = '1935863673:AAFjxFYzc_M8fuoQE4LJ0DcBsQa3eF6l0iY'
+TOKEN = 'YOUR TOKEN'
 bot = telepot.Bot(TOKEN)
 data = read_dataset()
 last_positions = {}
