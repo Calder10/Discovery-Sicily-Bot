@@ -8,4 +8,4 @@ Tecniche per la gestione degli open data
 
 Realizzato da Salvatore Calderaro e Giuseppe Scordato.
 
-Per maggiori informazioni consultare il file relazione_finale.pdf.
+Per maggiori informazioni consultare il file discovery_sicily_bot.pdf.
