@@ -1,0 +1,256 @@
+id,bene,libro,provincia,comune,compilazione,href,categoria
+1,Festa di San Calogero,REI - Libro delle celebrazioni,Agrigento,Agrigento,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/1,Festa patronale
+2,Settimana Santa e Vare,REI - Libro delle celebrazioni,Caltanissetta,San Cataldo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/4,Festa pasquale
+3,Settimana Santa e Vare,REI - Libro delle celebrazioni,Caltanissetta,Caltanissetta,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/204,Festa pasquale
+4,Carnevale,REI - Libro delle celebrazioni,Catania,Acireale,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/8,Festa
+5,Festa di Santa Lucia,REI - Libro delle celebrazioni,Siracusa,Siracusa,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/80,Festa patronale
+6,Festa dei Pani (San Biagio e San Giuseppe),REI - Libro delle celebrazioni,Trapani,Salemi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/84,Festa/Cerimonia
+7,Saperi della Civiltà Mineraria,REI - Libro dei saperi,Agrigento,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/121,Saperi
+8,Saperi della Civiltà Mineraria,REI - Libro dei saperi,Caltanissetta,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/123,Saperi
+9,Presepe Vivente,REI - Libro delle espressioni,Caltanissetta,Sutera,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/88,Rappresentazione/Spettacolo
+10,Detentori dei Saperi della Civiltà Mineraria,REI - Libro dei tesori umani viventi,Caltanissetta,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/159,Saperi
+11,Saperi della Civiltà Mineraria,REI - Libro dei saperi,Enna,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/127,Saperi
+12,Detentori dei Saperi della Civiltà Mineraria,REI - Libro dei tesori umani viventi,Enna,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/164,Saperi
+13,Gallo Italico (Parlata Alloglotta),REI - Libro delle espressioni,Enna,Nicosia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/94,Pratica espressiva
+14,Gallo Italico (Parlata Alloglotta),REI - Libro delle espressioni,Enna,Aidone,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/93,Pratica espressiva
+15,Gallo Italico (Parlata Alloglotta),REI - Libro delle espressioni,Enna,Sperlinga,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/96,Pratica espressiva
+16,Gallo Italico (Parlata Alloglotta),REI - Libro delle espressioni,Enna,Piazza Armerina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/95,Pratica espressiva
+17,Gallo Italico (Parlata Alloglotta),REI - Libro delle espressioni,Messina,San Fratello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/99,Pratica espressiva
+18,Patrimonio orale tradizionale,REI - Libro delle espressioni,Messina,Eolie,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/205,Pratica espressiva
+19,Musiche e Canti Liturgici (Comunità Grecoalbanese),REI - Libro delle espressioni,Palermo,Piana degli Albanesi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/107,Musica vocale-strumentale
+20,Paesaggio di Pietra - Muretti a Secco,REI - Libro delle espressioni,Ragusa,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/108,Espressione
+22,Ceramica e Presepe Artistico (Tradizione Figulina),REI - Libro dei saperi,Catania,Caltagirone,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/125,Tecnica artigiana
+23,Ciclo del Grano e del Pane (Vastedda - Pagnotta),REI - Libro dei saperi,Enna,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/126,Saperi
+24,Ciclo Caseario (Maiorchino),REI - Libro delle celebrazioni,Messina,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/132,Saperi
+25,Ciclo Caseario (Provola),REI - Libro dei saperi,Messina,,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/131,Saperi
+26,Ciclo Caseario,REI - Libro dei saperi,Palermo,,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/141,Saperi
+27,Ciclo Caseario,REI - Libro dei saperi,Palermo,Comuni Madoniti,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/136,Saperi
+28,Ricamo e Sfilato,REI - Libro dei saperi,Ragusa,Chiaramonte Gulfi,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/144,Tecnica artigiana
+29,Ricamo e Sfilato,REI - Libro dei saperi,Ragusa,Ragusa,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/147,Tecnica artigiana
+30,Cioccolata Modicana,REI - Libro dei saperi,Ragusa,Modica,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/145,Prodotto tipico locale
+31,Arte del Papiro,REI - Libro dei saperi,Siracusa,Siracusa,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/149,Tecnica artigiana
+32,Giuseppe e Paolo Caravella – Maestri  Ceramisti,REI - Libro dei tesori umani viventi,Agrigento,Burgio,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/158,Tesoro umano vivente
+33,Cantori alla Carrettiera,REI - Libro delle espressioni,Palermo,Bagheria,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/102,Espressione musicale
+34,Gioacchino Cataldo: Rais della Tonnara,REI - Libro dei tesori umani viventi,Trapani,Favignana,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/176,Tesoro umano vivente
+35,Arte degli Scalpellini,REI - Libro dei saperi,Siracusa,Noto,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/148,Tecnica artigiana
+36,Tessitura con Telai Storici,REI - Libro dei saperi,Enna,Sperlinga,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/128,Tecnica artigiana
+37,Palio dei Normanni,REI - Libro delle celebrazioni,Enna,Piazza Armerina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/26,Rappresentazione/Spettacolo
+38,Pace di Caltabellotta,REI - Libro delle celebrazioni,Agrigento,Caltabellotta,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/2,Rappresentazione/Spettacolo
+39,Giostra dei Chiaramonte,REI - Libro delle celebrazioni,Ragusa,Modica,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/67,Rappresentazione/Spettacolo
+40,Giostra dei Ventimiglia,REI - Libro delle celebrazioni,Palermo,Geraci Siculo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/53,Rappresentazione/Spettacolo
+41,Assedio del Castello di Sperlinga,REI - Libro delle celebrazioni,Enna,Sperlinga,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/28,Rappresentazione/Spettacolo
+42,Ciclo del Marmo,REI - Libro dei saperi,Trapani,Custonaci,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/150,Tecnica artigiana
+43,Dammusi di Pantelleria,REI - Libro delle espressioni,Trapani,Pantelleria,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/118,Espressione
+44,Festa del Maiorchino,REI - Libro delle celebrazioni,Messina,Novara di Sicilia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/38,Festa
+45,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Siracusa,Noto,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/115,Pratica espressiva
+46,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Ragusa,Modica,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/109,Pratica espressiva
+47,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Ragusa,Scicli,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/111,Pratica espressiva
+48,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Ragusa,Ragusa,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/110,Pratica espressiva
+49,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Siracusa,Palazzolo Acreide,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/116,Pratica espressiva
+50,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Catania,Catania,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/90,Pratica espressiva
+51,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Catania,Militello in Val di Catania,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/92,Pratica espressiva
+52,Paesaggio e Giardini di Pietra (Barocco del Sud-Est),REI - Libro delle espressioni,Catania,Caltagirone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/89,Pratica espressiva
+53,Saperi della Civiltà Mineraria,REI - Libro dei saperi,Palermo,Lercara Friddi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/140,Saperi
+54,Raffaele La Scala: Carradore,REI - Libro delle celebrazioni,Agrigento,Agrigento,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/157,Tesoro umano vivente
+55,Maria Costa: Poetessa Popolare,REI - Libro dei tesori umani viventi,Messina,Messina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/165,Tesoro umano vivente
+56,Antonio Piscitello: Maestro Ceramista,REI - Libro dei tesori umani viventi,Messina,Santo Stefano di Camastra,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/166,Tesoro umano vivente
+57,Storia Popolare: la Baronessa di Carini,REI - Libro delle espressioni,Palermo,Carini,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/103,Leggenda
+58,Francesca Mezzatesta ed Emanuele India: Maestri Rilegatori,REI - Libro dei tesori umani viventi,Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/172,Tesoro umano vivente
+59,Giuseppe Salerno - Radiologo dei Beni Culturali,REI - Libro dei tesori umani viventi,Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/173,Tesoro umano vivente
+60,Mario Iudici: Maestro Ceramista,REI - Libro dei tesori umani viventi,Catania,Caltagirone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/160,Tesoro umano vivente
+61,Antonino Ragona: Maestro Ceramista,REI - Libro dei tesori umani viventi,Catania,Caltagirone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/161,Tesoro umano vivente
+62,Giacomo Alessi: Maestro Ceramista,REI - Libro dei tesori umani viventi,Catania,Caltagirone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/162,Tesoro umano vivente
+63,Archi di Pasqua,REI - Libro delle celebrazioni,Agrigento,San Biagio Platani,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/3,Festa/Cerimonia
+64,Festa della Madonna dell'Alloro,REI - Libro delle celebrazioni,Messina,Barcellona Pozzo di Gotto,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/31,Festa/Cerimonia
+65,Santa Rosalia fuori le Mura,REI - Libro delle celebrazioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/56,Festa patronale
+66,Festa Sant'Antonio da Padova,REI - Libro delle celebrazioni,Catania,Gravina di Catania,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/13,Festa patronale
+67,Carnevale,REI - Libro delle celebrazioni,Catania,Misterbianco,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/14,Festa
+68,Giuseppe Alessi: Primo Presidente della Regione Siciliana,REI - Libro dei tesori umani viventi,Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/174,Tesoro umano vivente
+69,Canto Religioso: la Santa Cruci,REI - Libro delle espressioni,Caltanissetta,Riesi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/87,Canto religioso
+70,Festa di San Benedetto il Moro,REI - Libro delle celebrazioni,Messina,San Fratello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/42,Festa/Cerimonia
+71,"Festa dei Santi Patroni: Alfio, Filadelfio, Cirino",REI - Libro delle celebrazioni,Messina,San Fratello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/43,Festa patronale
+72,Fanfara dei Giudei,REI - Libro delle celebrazioni,Messina,San Fratello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/44,Processioni rituali
+73,Festa di San Filippo d'Agira,REI - Libro delle celebrazioni,Messina,Rodi' Milici,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/40,Festa patronale
+74,Festa della Madonna di Tagliavia,REI - Libro delle celebrazioni,Trapani,Vita,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/85,Festa/Cerimonia
+75,Arte della Falconeria di Antonio Centamore,REI - Libro delle celebrazioni,Messina,Messina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/129,Saperi
+76,Civiltà della Vite e del Vino,REI - Libro dei saperi,Caltanissetta,Caltanissetta,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/124,Saperi
+77,Presepe Semovente di Giacomo Randazzo,REI - Libro delle celebrazioni,Palermo,Cinisi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/104,Tecnica artigiana
+78,Rito delle Cento Onze,REI - Libro delle celebrazioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/57,Festa/Cerimonia
+79,Carnevale,REI - Libro delle celebrazioni,Palermo,Termini Imerese,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/64,Festa
+80,Sacre Rappresentazioni della Settimana Santa,REI - Libro delle celebrazioni,Palermo,Capaci,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/49,Festa pasquale
+81,Mostra-Mercato del Cavallo Sanfratellano,REI - Libro delle celebrazioni,Messina,San Fratello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/45,Rappresentazione/Spettacolo;Mostra-mercato
+82,Campus Etno-Antropologico-Naturalistico Padre Bernardino,REI - Libro delle celebrazioni,Messina,Ucria,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/48,Celebrazione
+83,Festa di Maria Santissima Addolorata,REI - Libro delle celebrazioni,Siracusa,Palazzolo Acreide,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/76,Festa/Cerimonia
+84,Festa di San Paolo Apostolo,REI - Libro delle celebrazioni,Siracusa,Palazzolo Acreide,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/77,Festa patronale
+85,Festa di San Michele,REI - Libro delle celebrazioni,Siracusa,Palazzolo Acreide,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/78,Festa/Cerimonia
+86,Festa di San Sebastiano Martire,REI - Libro delle celebrazioni,Siracusa,Palazzolo Acreide,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/79,Festa patronale
+87,Festa di Sant'Erasmo,REI - Libro delle celebrazioni,Palermo,Capaci,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/50,Festa/Cerimonia
+88,Festa del Santissimo Crocifisso,REI - Libro delle celebrazioni,Palermo,Monreale,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/188,Festa/Cerimonia
+89,Festa dell'Immacolata,REI - Libro delle celebrazioni,Palermo,Termini Imerese,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/65,Festa patronale
+90,Maria Grazia Ricotta: Ricamatrice,REI - Libro dei tesori umani viventi,Palermo,Alia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/167,Tesoro umano vivente
+91,Antonella Ditta: Tessitrice,REI - Libro dei tesori umani viventi,Palermo,Alia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/168,Tesoro umano vivente
+92,Mariano Armanno: Panararu,REI - Libro dei tesori umani viventi,Palermo,Alia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/169,Tesoro umano vivente
+93,Angelo Centanni: Vardiddaru,REI - Libro dei tesori umani viventi,Palermo,Alia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/170,Tesoro umano vivente
+94,Festa Maria Santissima degli Ammalati,REI - Libro delle celebrazioni,Catania,Misterbianco,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/15,Festa/Cerimonia
+95,Mastro di Campo,REI - Libro delle celebrazioni,Palermo,Mezzojuso,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/54,Festa/Cerimonia
+96,Vampata di San Giuseppe,REI - Libro delle celebrazioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/58,Festa/Cerimonia
+97,Pranzo delle Verginelle,REI - Libro delle celebrazioni,Catania,Motta Sant'Anastasia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/17,Festa/Cerimonia
+98,Festa di Sant'Antonio Abate,REI - Libro delle celebrazioni,Catania,Misterbianco,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/16,Festa patronale
+99,Rappresentazione del Venerdì Santo,REI - Libro delle celebrazioni,Ragusa,Vittoria,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/74,Rappresentazione/Spettacolo
+100,Festa Santa Anastasia,REI - Libro delle celebrazioni,Catania,Motta Sant'Anastasia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/18,Festa patronale
+101,Arte Etnoplastica di Roberto Vanadia,REI - Libro dei saperi,Agrigento,Agrigento,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/119,Tecnica artigiana
+102,Festa di San Giuseppe,REI - Libro delle celebrazioni,Trapani,Poggioreale,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/83,Festa/Cerimonia
+103,Cena di San Giuseppe,REI - Libro delle celebrazioni,Ragusa,Santa Croce Camerina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/68,Festa patronale
+104,Festa del Bimartire San Sebastiano,REI - Libro delle celebrazioni,Messina,Tortorici,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/47,Festa patronale
+105,Settimana Santa e Giunta di Pasqua,REI - Libro delle celebrazioni,Enna,Aidone,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/20,Rappresentazione/Spettacolo
+106,Festa del Battimento,REI - Libro delle celebrazioni,Enna,Aidone,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/21,Festa/Cerimonia
+107,Festa di San Giuseppe,REI - Libro delle celebrazioni,Enna,Valguarnera Caropepe,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/29,Festa/Cerimonia
+108,Processione della Madonna della Visitazione,REI - Libro delle celebrazioni,Enna,Enna,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/23,Festa/Cerimonia
+109,Processione del Venerdì Santo,REI - Libro delle celebrazioni,Enna,Enna,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/24,Processioni rituali
+110,Settimana Santa,REI - Libro delle celebrazioni,Enna,Barrafranca,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/22,Festa pasquale
+111,Pane Votivo di San Giuseppe,REI - Libro delle celebrazioni,Palermo,Chiusa Sclafani,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/51,Pane votivo
+112,Settimana Santa,REI - Libro delle celebrazioni,Catania,Biancavilla,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/11,Festa pasquale
+113,Festa di San Giacomo,REI - Libro delle celebrazioni,Catania,Caltagirone,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/12,Festa patronale
+114,Pani Pulitu della Cena di San Giuseppe,REI - Libro delle celebrazioni,Ragusa,Santa Croce Camerina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/69,Pane votivo
+115,Funzioni di San Giuseppe,REI - Libro delle celebrazioni,Palermo,Roccamena,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/63,Celebrazione
+116,Festa dell'Assunta,REI - Libro delle celebrazioni,Messina,Messina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/36,Festa patronale
+117,Festa della Madonna della Lettera,REI - Libro delle celebrazioni,Messina,Messina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/37,Festa patronale
+118,Festa di San Leone,REI - Libro delle celebrazioni,Messina,Sinagra,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/46,Festa patronale
+119,Festa del Santissimo Crocifisso,REI - Libro delle celebrazioni,Trapani,Calatafimi-Segesta,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/81,Festa/Cerimonia
+120,Processione dei Misteri del Venerdì Santo,REI - Libro delle celebrazioni,Messina,Barcellona Pozzo di Gotto,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/32,Processioni rituali
+121,I Misi i l'Annu,REI - Libro delle celebrazioni,Messina,Rodi' Milici,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/41,Festa
+122,Festa Madonna Santissima dell'Udienza,REI - Libro delle celebrazioni,Messina,Roccella Valdemone,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/39,Festa/Cerimonia
+123,Festa e Culto di San Benedetto il Moro,REI - Libro delle celebrazioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/59,Festa patronale
+124,Festa di San Giuseppe,REI - Libro delle celebrazioni,Enna,Leonforte,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/25,Festa/Cerimonia
+125,Festa di Sant'Antonio da Padova,REI - Libro delle celebrazioni,Enna,Leonforte,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/30,Festa/Cerimonia
+126,Arte del Carradore di Antonio Vasile,REI - Libro dei saperi,Ragusa,Santa Croce Camerina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/146,Tecnica artigiana
+127,Lu Signuri di li fasci,REI - Libro delle celebrazioni,Enna,Pietraperzia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/27,Festa pasquale
+128,Cucina Tradizionale Siciliana,REI - Libro dei saperi,,,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/156,Cultura enogastronomica regionale
+129,Targa Florio e Giro di Sicilia,REI - Libro delle celebrazioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/52,Celebrazione
+130,Tradizione Melodico-Musicale Belliniana,REI - Libro delle espressioni,Catania,Catania,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/91,Espressione musicale
+131,Albero Falcone,REI - Libro delle celebrazioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/60,Celebrazione
+132,Portella delle Ginestre,REI - Libro delle celebrazioni,Palermo,Piana degli Albanesi,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/62,Commemorazione
+133,Lancia Pantesca,REI - Libro dei saperi,Trapani,Pantelleria,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/153,Tecnica artigiana
+134,Percorso delle Cento Fontane,REI - Libro delle espressioni,Messina,Sinagra,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/100,Espressione
+135,Percorso: la Strada dei Palmenti,REI - Libro delle celebrazioni,Messina,Sinagra,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/133,Saperi
+136,Celebrazioni e Riti della Settimana Santa,REI - Libro delle celebrazioni,Ragusa,Scicli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/70,Festa/Cerimonia
+137,Festa del Cristo Re Risorto,REI - Libro delle celebrazioni,Ragusa,Scicli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/71,Celebrazione
+138,Festa della Madonna delle Milizie,REI - Libro delle celebrazioni,Ragusa,Scicli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/72,Festa/Cerimonia
+139,Canzoncine in Onore di Maria Santissima,REI - Libro delle espressioni,Ragusa,Scicli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/112,Espressione
+140,Festa di San Giuseppe con Folkloristica Cavalcata,REI - Libro delle celebrazioni,Ragusa,Scicli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/73,Festa/Cerimonia
+141,Coltivazione del Sale nella Salina Culcasi,REI - Libro dei saperi,Trapani,Paceco,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/152,Tecnica artigiana
+142,Festa di San Nicola di Bari,REI - Libro delle celebrazioni,Messina,Gualtieri Sicamino',Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/33,Festa patronale
+143,Nocciolata,REI - Libro delle celebrazioni,Messina,Gualtieri Sicamino',Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/34,Festa patronale
+144,Pesca del Pesce Spada nello Stretto di Messina,REI - Libro dei saperi,Messina,Messina,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/130,Tecnica artigiana
+145,Pesca del Tonno a Favignana,REI - Libro dei saperi,Trapani,Favignana,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/151,Tecnica artigiana
+146,Festa della Madonna Bambina,REI - Libro delle celebrazioni,Trapani,Calatafimi-Segesta,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/82,Festa/Cerimonia
+147,Festa di li Schietti,REI - Libro delle celebrazioni,Palermo,Terrasini,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/66,Festa/Cerimonia
+148,Arte Orafo-Argentiera Palermitana,REI - Libro dei saperi,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/142,Saperi
+149,Antonino Amato: Maestro Argentiere,REI - Libro dei tesori umani viventi,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/175,Tesoro umano vivente
+150,Festa di Maria Santissima dei Miracoli,REI - Libro delle celebrazioni,Caltanissetta,Mussomeli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/5,Festa patronale
+151,Performance Musicali  di Laura Mollica,REI - Libro delle espressioni,Palermo,Palermo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/105,Espressione musicale
+152,Festa della Pomelia,REI - Libro delle celebrazioni,Catania,Riposto,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/19,Festa/Cerimonia
+153,Lavorazione della Pietra Campanedda,REI - Libro dei saperi,Trapani,Salemi,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/155,Tecnica artigiana
+154,Pesca e Salagione del Pesce Azzurro,REI - Libro dei saperi,Agrigento,Sciacca,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/120,Saperi
+155,Arte della Ceramica,REI - Libro dei saperi,Palermo,Collesano,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/135,Tecnica artigiana
+156,Tecnica del Filet e del Ricamo,REI - Libro dei saperi,Palermo,,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/137,Tecnica artigiana
+157,Tessitura con Telai Storici,REI - Libro dei saperi,Palermo,,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/138,Tecnica artigiana
+158,Ballo della Cordella,REI - Libro delle espressioni,Palermo,Petralia Sottana,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/106,Rappresentazione/Spettacolo
+159,"Franco Liberto, in arte Ciccio: Artista delle Calzature",REI - Libro delle celebrazioni,Palermo,Cefalu',Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/171,Tesoro umano vivente
+160,Ciclo Produttivo della Manna,REI - Libro dei saperi,Palermo,,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/139,Tecnica artigiana
+161,Salvatore Patanè: Etnostorico,REI - Libro dei tesori umani viventi,Catania,Sant'Alfio,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/163,Tesoro umano vivente
+162,Pantomima: u Pisci a Mari,REI - Libro delle celebrazioni,Catania,Aci Castello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/7,Rappresentazione/Spettacolo
+163,Festa di Maria SS. della Catena e S. Michele Arcangelo,REI - Libro delle celebrazioni,Messina,Librizzi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/35,Festa patronale
+164,Festa della Diavolata ed Angelicata,REI - Libro delle celebrazioni,Catania,Adrano,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/9,Festa/Cerimonia
+165,La Volata dell'Angelo,REI - Libro delle celebrazioni,Catania,Adrano,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/10,Festa patronale
+166,Trofeo di Poesia Popolare Turiddu Bella,REI - Libro delle espressioni,Siracusa,Floridia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/113,Evento letterario
+167,Arte del Maestro Ierna,REI - Libro delle espressioni,Siracusa,Floridia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/114,Espressione musicale
+168,Platimiro Fiorenza: Maestro del Corallo,REI - Libro dei tesori umani viventi,Trapani,Trapani,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/177,Tesoro umano vivente
+169,Fiera Mercato per la Festa di Sant'Alberto,REI - Libro delle celebrazioni,Messina,Sinagra,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/86,Festa/Cerimonia
+170,L'arte di Rosita Caliò,REI - Libro delle espressioni,Messina,Sinagra,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/101,Pratica espressiva
+171,I Monumenti della Natura,REI - Libro dei saperi,Messina,Sinagra,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/134,Saperi
+172,Realizzazione Artigianale del Marranzano,REI - Libro dei saperi,Caltanissetta,Resuttano,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/143,Tecnica artigiana
+173,Coltivazione della Vite ad Alberello,REI - Libro dei saperi,Trapani,Pantelleria,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/154,Tecnica artigiana
+174,Torrone di Caltanissetta,REI - Libro dei saperi,Caltanissetta,Caltanissetta,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/122,Prodotto tipico locale
+175,Rogo delle Barche alla Bandita per San Giuseppe,REI - Libro delle celebrazioni,Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/61,Festa/Cerimonia
+176,Edicole Votive a Salina,REI - Libro delle espressioni,Messina,Santa Marina Salina,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/98,Espressione
+177,Festa e Palio dell'Ascensione,REI - Libro delle celebrazioni,Siracusa,Floridia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/75,Rappresentazione/Spettacolo
+178,U Trunfu,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Messina,Tortorici,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/178,Gioco tradizionale
+179,Festa in onore di San Giovanni Battista,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Catania,Aci Castello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/179,Festa/Cerimonia
+180,Domenico Di Mauro - Artista del carretto siciliano,REIS - Libro dei Tesori Umani Viventi,Catania,Aci Sant'Antonio,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/180,Tesoro umano vivente
+181,Festa di San Cono,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Naso,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/181,Festa patronale
+182,Settimana Santa,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Ragusa,Ispica,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/182,Festa pasquale
+183,Ladata o Lamintanza,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Caltanissetta,Caltanissetta,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/183,Repertori polivocali
+184,"Festa del ""Muzzuni""","REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Alcara li Fusi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/184,Festa/Cerimonia
+185,Festa in onore di San Nicolò Politi,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Alcara li Fusi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/185,Festa patronale
+186,Barche in Legno Trezzote,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Catania,Aci Castello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/186,Tecnica artigiana
+187,Festino di San Silvestro,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Enna,Troina,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/187,Festa patronale
+188,Frottole di Isnello,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Palermo,Isnello,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/189,Canto religioso
+189,Paolo Rapisarda - Artista del carretto siciliano,REIS - Libro dei Tesori Umani Viventi,Catania,Aci Sant'Antonio,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/191,Tesoro umano vivente
+190,Rosario D'Agata - Artista del carretto siciliano,REIS - Libro dei Tesori Umani Viventi,Catania,Viagrande,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/192,Tesoro umano vivente
+191,Antonio Zappalà - Artista del carretto siciliano,REIS - Libro dei Tesori Umani Viventi,Catania,Aci Sant'Antonio,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/190,Tesoro umano vivente
+192,Salvatore Chiarenza - Artista del carretto siciliano,REIS - Libro dei Tesori Umani Viventi,Catania,Acireale,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/193,Tesoro umano vivente
+193,"Venera Chiarenza, detta Nerina - Artista del carretto siciliano",REIS - Libro dei Tesori Umani Viventi,Catania,Aci Sant'Antonio,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/194,Tesoro umano vivente
+194,Carnevale Luciese,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Santa Lucia del Mela,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/195,Festa
+195,Festa patronale di S. Giovanni Battista,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Ragusa,Ragusa,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/196,Festa patronale
+196,Festa patronale di San Giorgio martire,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Ragusa,Ragusa,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/197,Festa patronale
+197,Lamenti della Settimana Santa di Mussomeli,REI - Libro delle celebrazioni,Caltanissetta,Mussomeli,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/198,Repertori polivocali
+198,"Vito Fulco - Pittore su vetro, artista",REIS - Libro dei Tesori Umani Viventi,Trapani,Alcamo,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/199,Tesoro umano vivente
+199,Lingua arbëreshë,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Palermo,Piana degli Albanesi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/200,Pratica espressiva
+200,Coltello Bisacquinese,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Palermo,Bisacquino,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/201,Tecnica artigiana
+201,Luoghi letterari e cinematografici di Montalbano,REIS - Libro degli Spazi Simbolici,Ragusa,Ragusa,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/202,Spazi simbolici
+202,Presepe Vivente di Custonaci,REI - Libro delle espressioni,Trapani,Custonaci,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/207,rappresentazione/spettacolo
+203,Portella della Ginestra,REI - Libro delle celebrazioni,Palermo,Piana degli Albanesi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/208,Commemorazione
+204,Pietro Bongiorno: Amanuense,REIS - Libro dei Tesori Umani Viventi,Palermo,Gangi,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/209,saperi
+205,la Casazza di Nicosia,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Enna,Nicosia,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/210,rappresentazione/spettacolo
+206,Gaetano Russo : scultore/scalpellino,REIS - Libro dei Tesori Umani Viventi,Messina,Mistretta,Si,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/211,tecniche
+207,Carnevale di Sciacca,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Agrigento,Sciacca,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/212,Festa
+208,Mimmo Cuticchio,REI - Libro dei tesori umani viventi,Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/216,Tesoro umano vivente
+209,Festa di Santa Lucia,REI - Libro delle celebrazioni,Catania,Belpasso,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/217,Processioni rituali
+210,Mostarda di fico d'India,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Catania,Militello in Val di Catania,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/218,Prodotto tipico locale
+211,Settimana Santa di Caltagirone,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Catania,Caltagirone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/219,Celebrazione e pratica rituale
+212,Pesca delle rane di Paternò,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Catania,Paterno',No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/220,tecniche
+213,Festa della Madonna neve di Giarratana,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Ragusa,Ragusa,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/221,Festa patronale
+214,Nonò Salamone,REIS - Libro dei Tesori Umani Viventi,Caltanissetta,Sutera,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/222,saperi
+215,Gozzo siracusano,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Siracusa,Siracusa,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/223,tecniche
+216,Festa di San Francesco di Paola,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/224,festa/cerimonia
+217,Spazio simbolico della Rocca di Cerere,REIS - Libro degli Spazi Simbolici,Enna,Enna,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/225,Spazi simbolici
+218,Settimana Santa di Corleone,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Corleone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/226,Celebrazioni
+219,farm Cultural Park,REIS - Libro degli Spazi Simbolici,Agrigento,Favara,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/227,Rappresentazione/Spettacolo
+220,Festino di santa Rosalia,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/228,Festa patronale
+221,"Carnevale cattafese. ""a maschira""","REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,San Filippo del Mela,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/229,festa/cerimonia
+222,Cappidduzzu di Maria,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Monforte San Giorgio,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/230,Celebrazione e pratica rituale
+223,Festa della berrettella,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Milazzo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/231,Celebrazione e pratica rituale
+224,Mandorlo in fiore,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Agrigento,Agrigento,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/232,festa/cerimonia
+225,Salvatore Martino Rodolico,REIS - Libro dei Tesori Umani Viventi,Catania,Aci Castello,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/233,Tecnica artigiana
+226,Rosa Balistreri,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Agrigento,Licata,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/234,musica vocale-strumentale
+227,Katabba,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Monforte San Giorgio,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/235,Celebrazione e pratica rituale
+228,Riti della Settimana Santa,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Caltanissetta,Riesi,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/236,seleziona
+229,Parlata del gallo Italico,"REIS - Libro dei Dialetti, delle Parlate e dei Gerghi",Messina,Novara di Sicilia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/237,Parlata
+230,Festa di Sant'Agata,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Catania,Catania,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/238,Celebrazione e pratica rituale
+231,Risveglio Camarinese,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Ragusa,Santa Croce Camerina,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/239,Espressione musicale
+232,Corsa di San Leoluca,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Corleone,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/240,Processioni rituali
+233,Festa di San Giacomo,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Capizzi,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/241,Festa patronale
+234,Festa di Sant'Antonio Abate,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Catania,Pedara,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/242,Festa patronale
+235,Navigata di terra dei Santi Cosma e Damiano,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Palermo,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/243,Festa/Cerimonia
+236,Festa di San Bartolomeo Apostolo,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Lipari,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/244,Festa patronale
+237,Festa di San Bartolomeo Apostolo,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Ragusa,Giarratana,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/245,Festa patronale
+238,U lamentu,REIS - Libro delle Pratiche Espressive e dei Repertori Orali,Siracusa,Canicattini Bagni,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/246,Canto religioso
+239,Rievocazione storica della sfilata dell'orso e della Corte principesca,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Saponara,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/247,Festa
+240,festa delle Barette,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Messina,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/248,Celebrazione
+241,"processione notturna ""a Mmaculatedda""","REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Trabia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/249,Processioni rituali
+242,Festa della madonna della Lettera,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Itala,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/250,Processioni rituali
+243,Spiaggia di Portinente,REIS - Libro degli Spazi Simbolici,Messina,Lipari,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/251,Spazi simbolici
+244,manifestazioni laiche e religiose durante la Settimana Santa a Lipari,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Lipari,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/252,Celebrazioni
+245,Festa patronale della Madonna della Milicia,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Palermo,Altavilla Milicia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/253,Festa patronale
+246,"Mille tavolette ex voto del Santuario dei Santi Alfio, Fidelio e Cirino","REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Catania,Trecastagni,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/254,tecniche
+247,don Peppino Catalfamo detto il Magnifico,REIS - Libro dei Tesori Umani Viventi,Messina,Castroreale,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/255,Saperi
+248,Settimana Santa a Ragusa Ibla,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Ragusa,Ragusa,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/256,Celebrazione e pratica rituale
+249,Festa dell'Assunta,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Novara di Sicilia,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/257,Celebrazione e pratica rituale
+250,Acchianata d'a Madonna,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Tusa,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/258,Celebrazioni
+251,Arte organaria dei fratelli Cimino,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Agrigento,Agrigento,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/259,Tecnica artigiana
+252,Carnevale Regalbutese,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Enna,Regalbuto,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/260,Carnevale
+253,Festa di San Nicola,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Messina,Messina,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/261,Festa patronale
+254,Costumi tradizionali femminili della comunità albofona di Piana degli Albanesi,"REIS - Libro dei Mestieri, dei Saperi e delle Tecniche",Palermo,Piana degli Albanesi,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/262,Tecnica artigiana
+255,Festa di San Vito martire e Processione dell'Alloro,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Enna,Regalbuto,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/263,Festa patronale
+256,Festa di Santa Venera di Acireale,"REIS - Libro delle Celebrazioni, delle Feste e delle Pratiche Rituali",Catania,Acireale,No,https://reis.cricd.it/index.php/index.php/reisicilia/details/2/264,Festa patronale
