@@ -1,0 +1,39 @@
+@prefix     rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix     rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix     xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix     dso:    <http://www.discoverysicily.it/ontology/> .
+@prefix     cis:    <http://dati.beniculturali.it/cis/> .
+@prefix     dbo:    <http://dbpedia.org/ontology/> .
+@prefix     owl: 	<http://www.w3.org/2002/07/owl#> .
+@prefix		rso:   	<https://dati.regione.sicilia.it/onto/regionesiciliana/>.
+
+dso:comune		                        rdf:type	 	    rdf:Property ;
+			                            rdfs:domain		    dbo:Place ;
+			                            rdfs:range		    dbo:location . 
+
+dso:museo								rdf:type			rdf:Property ;
+										rdfs:domain			cis:CulturalInstituteOrSite; 
+										rdfs:range			cis:Museum .
+
+dso:museorso							rdf:type			rdf:Property ;
+										rdf:domain			owl:Ontology;
+										rdfs:range 			rso:CulturalProperty.
+
+
+dso:castello 							rdf:type			rdf:Property ;
+										rdf:domain			owl:Ontology;
+										rdfs:range 			rso:Castle .
+
+dso:beneimmateriale 					rdf:type			rdf:Property ;
+										rdf:domain			owl:Ontology;
+										rdfs:range 			rso:IntangibleCulturalProperty .
+
+dso:luogodelgusto						rdf:type			rdf:Property ;
+										rdf:domain			owl:Ontology;
+										rdfs:range 			rso:DemoEthnoAnthropologicalHeritage .
+
+dso:torre								rdf:type			rdf:Property ;
+										rdf:domain			owl:Ontology;
+										rdfs:range 			rso:PointOfInterest.
+
+		
