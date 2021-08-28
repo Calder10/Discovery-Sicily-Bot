@@ -4,7 +4,7 @@ Realizzazione di un Bot Telegram mediante utilizzo di Open Data che permette di 
 Università degli Studi Di Palermo\
 Corso di Laurea Magistrale in Informatica\
 Anno Accademico 2020/2021\
-Tecniche per la gestione degli open data\
+Tecniche per la gestione degli open data
 
 Realizzato da Salvatore Calderaro e Giuseppe Scordato.
 
